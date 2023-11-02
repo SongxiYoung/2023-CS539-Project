@@ -1,3 +1,3 @@
-# 2024-ECE539-Project
+# 2024-CS539-Project
 
 Plant Species Classification.
